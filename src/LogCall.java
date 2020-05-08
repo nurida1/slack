@@ -5,6 +5,7 @@ public class LogCall {
         System.out.println("Hello Nurida!");
 
     }
+    //This line is from GitHub! :)
 
 
 }
